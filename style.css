@@ -1,0 +1,18 @@
+body{
+    background-image: url('/dewy-prairie-under-distant-heat-lightning-with-puddle-reflections-representing-prairie-weather-and-atmospheric-electricity-suitable-for-outdoor-lifestyle-branding-educational-posters-photo.jpeg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    background-color: darkblue;
+    justify-content: center;
+}
+
+.card{
+    background-color: aqua;
+    width: 400px;
+    border-radius: 15px;
+    padding: 10px;
+    text-align: center;
+}
